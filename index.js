@@ -1,3 +1,3 @@
-function handleClick () {
+const handleClick = () => {
   console.log('Button Clicked')
 }
